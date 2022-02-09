@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+@tailwind variants;
+
+.container{
+    width: 1140px !important;
+    margin: auto;
+}
